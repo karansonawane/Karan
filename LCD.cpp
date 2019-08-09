@@ -1,8 +1,4 @@
-"""
-Name=Amit Nagesh Nilekar
-computer TY
-LCD Problem
-"""
+
 #include <iostream>
 #include <string>
 #include <vector>
