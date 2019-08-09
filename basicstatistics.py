@@ -1,8 +1,4 @@
-"""
-Name=Amit Nagesh Nilekar
-computer TY
-Basic statistics Problem
-"""
+
 import numpy as np
 from scipy import stats
 
